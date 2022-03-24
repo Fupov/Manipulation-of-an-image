@@ -17,7 +17,7 @@ C command-line Image Manipulation.
 - Compile the programme using the following command line: gcc incrustation.c lodepng.c -o incrustation
 - Execute the programme using the following command line: ./incrustation input.png layer.png output.png
 
-## arguments explaination
+## Arguments explaination
 
 - input.png should be the color input image.
 - layer.png should be the layer image, where the parts to turn black and white appear
